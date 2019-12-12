@@ -1,4 +1,4 @@
-# React sample code with Webpack
+# React sample code with Typescript
 [![Build Status][build-badge]][build]
 ### This is my React starter kit in some projects
 
