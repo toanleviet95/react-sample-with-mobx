@@ -44,4 +44,4 @@ npm run build // or yarn build
 [tslint]: https://palantir.github.io/tslint
 [stylelint]: https://stylelint.io
 [travis-ci]: https://travis-ci.org
-[build]: https://travis-ci.com/toanleviet95/react-sample-with-webpack
+[build]: https://travis-ci.org/toanleviet95/react-sample-with-typescript
