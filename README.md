@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="10%" />
   &nbsp;
-  <img src="https://webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" width="10%" />
+  <img src="https://github.com/webpack/media/blob/master/logo/icon-square-big.svg" width="10%" />
   &nbsp;
   <img src="https://devstickers.com/assets/img/pro/tzgi.png" width="10%" />
   &nbsp;
