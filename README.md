@@ -15,7 +15,7 @@
 </div>
 
 ### Tech Stack
-- [React][reactjs] - Library for building user interfaces
+- [React][reactjs] - Library for building user interfaces (v17 - Should read [CHANGELOG][reactjs@17])
 - [Webpack][webpack] - Bundle and dev server
 - [Hot loader][react-hot-loader] - React Hot Loader
 - [TSlint][tslint] - An extensible linter for the TypeScript language
@@ -38,6 +38,7 @@ npm start // or yarn start
 npm run build // or yarn build
 ```
 [reactjs]: https://reactjs.org
+[reactjs@17]: https://github.com/facebook/react/blob/master/CHANGELOG.md
 [webpack]: https://webpack.js.org
 [react-hot-loader]: https://github.com/gaearon/react-hot-loader
 [build-badge]: https://travis-ci.com/toanleviet95/react-sample-with-webpack.svg?branch=master

@@ -1,6 +1,6 @@
 {
   "name": "react-sample-with-typescript",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "React sample with Typescript",
   "scripts": {
     "start": "webpack-dev-server --open --config ./webpack/webpack.dev.ts",
@@ -16,10 +16,10 @@
   "author": "toanleviet95@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "@types/react": "^16.9.15",
-    "@types/react-dom": "^16.9.4",
-    "react": "^16.9",
-    "react-dom": "^16.9",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
     "webpack": "^4.29.4",
     "webpack-merge": "^4.2.1"
   },
@@ -33,8 +33,8 @@
     "stylelint-config-prettier": "^4.0.0",
     "stylelint-config-standard": "^18.0.0",
     "ts-loader": "^6.2.1",
-    "tslint": "^5.20.1",
-    "typescript": "^3.7.3",
+    "tslint": "^6.0.0",
+    "typescript": "^4.1.0",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.1.14"
   },

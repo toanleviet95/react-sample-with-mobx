@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "strict": true,
     "allowSyntheticDefaultImports": true,
-    "jsx": "react",
     "sourceMap": true,
     "target": "es6",
     "baseUrl": ".",
